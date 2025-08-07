@@ -9,6 +9,8 @@
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
+  background-color: rgb(21, 21, 21);
+  font-family: Roboto, Arial;
 }
 
 img, picture, video, canvas, svg {

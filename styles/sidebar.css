@@ -1,0 +1,14 @@
+.sidebar{
+  position: fixed;
+  left: 10px;
+  top: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.home{
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin: 5px;
+}
