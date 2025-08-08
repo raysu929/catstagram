@@ -1,0 +1,62 @@
+.suggested-container{
+position: absolute;
+right: 100px;
+top: 60px;
+}
+
+.profile-container{
+display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.profile-picture-aya{
+width: 50px;
+height: 50px;
+border-radius: 50%;
+object-fit: cover;
+margin-left: 45px;
+cursor: pointer;
+}
+
+.nickname{
+font-weight: 500;
+cursor: pointer;
+}
+
+.username{
+color: gray;
+cursor: pointer;
+}
+
+.switch{
+  color: rgb(52, 167, 249);
+  margin-left: 65px;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.switch:hover{
+  text-decoration: underline;
+}
+
+.suggested-text{
+color: gray;
+font-weight: 500;
+}
+
+.see-all{
+  color: white;
+font-size: 0.8rem;
+font-weight: 500;
+cursor: pointer;
+}
+
+.text-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8rem;
+  margin: 30px;
+  margin-left: 50px;
+}
