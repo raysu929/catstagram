@@ -68,14 +68,6 @@ cursor: pointer;
 margin-top: 15px;
 }
 
-.follow-profile-pic{
-  
-}
-
-.follow-username{
-
-}
-
 .followed-by{
 font-size: 0.9rem;
 }
@@ -106,6 +98,46 @@ margin-top: 10px;
 .meta{
   margin-top: 20px;
 }
-/*change profile pics with new different profiles!!*/
-/*commit the changes */
-/* do the sticky message part*/
+
+.messages-container{
+  position: fixed;
+background-color: rgb(42, 42, 42);
+width: 270px;
+height: 60px;
+border-radius: 30px;
+right: 20px;
+bottom: 30px;
+display: flex;
+cursor: pointer;
+}
+
+.messages-icon{
+margin: 18px 10px;
+margin-left: 20px;
+}
+
+.messages{
+margin-top: 15px;
+font-weight: 500;
+font-size: 1.2rem;
+}
+
+.messages-image1{
+position: absolute;
+right: 60px;
+}
+
+.messages-image2{
+  position: absolute;
+  right: 40px;
+}
+
+.messages-image3{
+  position: absolute;
+  right: 20px
+}
+.messages-profile-container{
+  display: flex;
+  margin-top: 8px;
+  margin-left: 8px;
+}
