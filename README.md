@@ -1,15 +1,19 @@
-# Instagram Clone
+# Catstagram
 
-A simplified **Instagram UI clone** built with HTML and CSS.  
-Designed and developed from scratch — inspired by the real Instagram experience.
+A simplified social media interface for sharing cat content — built entirely with HTML and CSS.
 
- **Live Demo:**  
-[https://luxury-mooncake-a128ff.netlify.app](https://luxury-mooncake-a128ff.netlify.app)
+This project was created from scratch as a personal learning exercise. It is **not affiliated with any real company or brand** and does **not collect any user data**.
+
+> DISCLAIMER: This page was made as a personal educational project. It is not the official site of any company or brand. The creator is not affiliated with any brand in any way. This page is a personal project made in connection with an educational exercise.
+
+
+** Live Demo:**  
+https://catstagram-paw.netlify.app/
 
 
 ##Features
 
-- Instagram-style sidebar navigation
+- Sidebar navigation
 - User stories layout with gradient rings
 - Feed posts with profile, image, likes, and captions
 - Suggested users to follow
