@@ -64,12 +64,14 @@ border-radius: 5px;
 }
 
 .footer-text{
-  margin-left: -40px;
+  margin-left: -50px;
 }
 
-.instagram{
+.catstagram{
   position: fixed;
-  object-fit: cover;
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-size: 2rem;
   top: 50px;
   left: 20px;
   width: 130px;
